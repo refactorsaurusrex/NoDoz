@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDoz", "NoDoz\NoDoz.csproj", "{D708116A-8BB6-4490-830F-651CD3F7A105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D708116A-8BB6-4490-830F-651CD3F7A105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D708116A-8BB6-4490-830F-651CD3F7A105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D708116A-8BB6-4490-830F-651CD3F7A105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D708116A-8BB6-4490-830F-651CD3F7A105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D27703-D291-4085-B497-8FB7F7497910}
+	EndGlobalSection
+EndGlobal
