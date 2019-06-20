@@ -25,10 +25,10 @@ namespace NoDoz
             _composite = builder.Build();
         }
 
-        [Option('m')]
+        [Option('m', "minimize")]
         public bool Minimize { get; set; }
 
-        [Option('t')]
+        [Option('t', "timeout")]
         public string TimeoutExpression { get; set; }
 
         [Option(Hidden = true)]
