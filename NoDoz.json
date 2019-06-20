@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/refactorsaurusrex/NoDoz/releases/download/v1.0/NoDoz-1.0.0.zip",
+  "bin": "NoDoz.exe",
+  "hash": "7632B9BCEE6BE41FD8815A3E515C225B13067EFB71534F681C3BC01900393C3C",
+  "homepage": "https://github.com/refactorsaurusrex/NoDoz",
+  "notes": "Thanks for installing NoDoz! Press 'H' after running the tool for online documentation.",
+  "description": "Keeping Windows awake at night since at least 2019."
+}
