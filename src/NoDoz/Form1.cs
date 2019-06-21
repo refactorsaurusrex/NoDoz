@@ -96,6 +96,10 @@ namespace NoDoz
                 Show();
                 WindowState = FormWindowState.Normal;
             }
+            else
+            {
+                ShowBalloon();
+            }
         }
 
         private TimeSpan TimeRemaining() => TimeSpan.FromMilliseconds(_totalDuration - _stopwatch.ElapsedMilliseconds);
