@@ -34,6 +34,7 @@ Currently, NoDoz requires .NET Framework 4.6.1. (Sorry.) Once .NET Core 3 is rel
 1. [Install Scoop](https://github.com/lukesampson/scoop#installation).
 2. Run `scoop checkup` and install any dependencies it tells you about. (I found the documentation on this point less than clear.)
 3. Run `scoop install https://raw.githubusercontent.com/refactorsaurusrex/NoDoz/master/NoDoz.json`
+4. Run `NoDoz` with desired parameters.
 
 ### Option 2: Download The Zip
 
