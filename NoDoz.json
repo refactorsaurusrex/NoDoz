@@ -6,5 +6,8 @@
   "homepage": "https://github.com/refactorsaurusrex/NoDoz",
   "notes": "Thanks for installing NoDoz! Press 'H' after running the tool for online documentation.",
   "description": "Keeping Windows awake at night since at least 2019.",
-  "checkver": "github"
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/refactorsaurusrex/NoDoz/releases/download/v$version/NoDoz-v$version.zip"
+  }
 }
