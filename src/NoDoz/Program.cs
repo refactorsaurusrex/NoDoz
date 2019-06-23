@@ -17,9 +17,9 @@ namespace NoDoz
 
             try
             {
-                Parser.Default.ParseArguments<Options>(args).WithParsed(opts =>
+                Parser.Default.ParseArguments<Options>(args).WithParsed(options =>
                 {
-                    var form = new Form1(opts);
+                    var form = new FormMain(options);
                     try
                     {
                         Application.Run(form);
