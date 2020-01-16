@@ -1,4 +1,4 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/refactorsaurusrex/nodoz/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/refactorsaurusrex/nodoz/total?style=for-the-badge)
 
 # NoDoz
 Ever need to temporarily prevent your Windows computer from going to sleep? 
