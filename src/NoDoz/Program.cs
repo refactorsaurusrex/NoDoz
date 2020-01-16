@@ -8,6 +8,7 @@ namespace NoDoz
     internal static class Program
     {
         private const string Text = "Ouch! That didn't work right. Would you like to open a GitHub issue?";
+        private const string BugReportUrl = @"https://github.com/refactorsaurusrex/NoDoz/issues/new?assignees=refactorsaurusrex&labels=bug&template=bug_report.md&title=";
 
         [STAThread]
         private static void Main(string[] args)
@@ -29,7 +30,7 @@ namespace NoDoz
                         var result = MessageBox.Show(form, Text, "NoDoz", MessageBoxButtons.YesNo, MessageBoxIcon.Error);
 
                         if (result == DialogResult.Yes)
-                            Process.Start(@"https://github.com/refactorsaurusrex/NoDoz/issues");
+                            Process.Start(BugReportUrl);
                     }
                 });
             }
@@ -38,7 +39,7 @@ namespace NoDoz
                 var result = MessageBox.Show(Text, "NoDoz", MessageBoxButtons.YesNo, MessageBoxIcon.Error);
 
                 if (result == DialogResult.Yes)
-                    Process.Start(@"https://github.com/refactorsaurusrex/NoDoz/issues");
+                    Process.Start(BugReportUrl);
             }
         }
     }
