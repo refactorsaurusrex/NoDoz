@@ -11,7 +11,7 @@ Recently, I used the Windows Task Scheduler to launch insomnia every weekday mor
 
 ![NoDoz](https://raw.githubusercontent.com/refactorsaurusrex/NoDoz/master/images/screenshot.png)
 
-For anyone wondering about the name, [click here](https://www.nodoz.com/). :)
+For anyone wondering, [NoDoz](https://www.nodoz.com/) is a caffeine pill sold in the United States.
 
 ## Usage
 
@@ -25,7 +25,7 @@ Refer to the [wiki](https://github.com/refactorsaurusrex/NoDoz/wiki) for additio
 
 ## System Requirements
 
-Currently, NoDoz requires .NET Framework 4.6.1. (Sorry.) Once .NET Core 3 is released in a few months, I will probably re-release it as a self-contained application. (The GUI is created with Windows Forms, which won't be available without the full framework until .NET Core 3.)
+None! As of version 2.0.0, NoDoz is a self-contained .NET 5 application that consists of a single executable file. 
 
 ## Installation & Updates
 
