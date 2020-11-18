@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDoz", "NoDoz\NoDoz.csproj", "{D708116A-8BB6-4490-830F-651CD3F7A105}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDoz", "NoDoz\NoDoz.csproj", "{98DD1889-FAA3-4685-8CCD-D0E7F6A42586}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D708116A-8BB6-4490-830F-651CD3F7A105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D708116A-8BB6-4490-830F-651CD3F7A105}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D708116A-8BB6-4490-830F-651CD3F7A105}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D708116A-8BB6-4490-830F-651CD3F7A105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DD1889-FAA3-4685-8CCD-D0E7F6A42586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DD1889-FAA3-4685-8CCD-D0E7F6A42586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DD1889-FAA3-4685-8CCD-D0E7F6A42586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DD1889-FAA3-4685-8CCD-D0E7F6A42586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B4D27703-D291-4085-B497-8FB7F7497910}
+		SolutionGuid = {0E1E0FF0-C327-424B-A803-77F895FED3E5}
 	EndGlobalSection
 EndGlobal
