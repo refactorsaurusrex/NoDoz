@@ -11,7 +11,7 @@ Recently, I used the Windows Task Scheduler to launch insomnia every weekday mor
 
 ![NoDoz](https://raw.githubusercontent.com/refactorsaurusrex/NoDoz/master/images/screenshot.png)
 
-For anyone wondering, [NoDoz](https://www.nodoz.com/) is a caffeine pill sold in the United States.
+For anyone wondering, the name is based on a [caffeine pill](https://www.nodoz.com/) that's sold in the United States.
 
 ## Usage
 
